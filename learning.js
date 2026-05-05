@@ -30,5 +30,12 @@ tested in 2ndbranch
 
 added more lines
 
+<<<<<<< HEAD
 test over tests for push pull 
+>>>>>>> 2ndbranch
+=======
+test over tests for push pull
+
+
+testing merge again
 >>>>>>> 2ndbranch
