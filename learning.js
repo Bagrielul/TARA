@@ -38,4 +38,10 @@ test over tests for push pull
 
 
 testing merge again
+<<<<<<< HEAD
+>>>>>>> 2ndbranch
+=======
+
+
+git merged pull request
 >>>>>>> 2ndbranch
