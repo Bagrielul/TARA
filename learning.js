@@ -16,5 +16,7 @@ third test pulll
 6
 
 
+testing in visual code
 
-testing in visual code 
+
+tested in VIM env from CMD
